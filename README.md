@@ -1,2 +1,3 @@
 # Kaggle-Plant-Seedlings-Classification
-  Loss.pdf Show loss curves
+  Loss.pdf 
+  Show loss curves
