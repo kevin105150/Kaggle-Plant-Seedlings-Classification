@@ -1,3 +1,2 @@
 # Kaggle-Plant-Seedlings-Classification
-  Loss.pdf 
-  Show loss curves
+  ![GitHub Logo](/images/logo.png)
