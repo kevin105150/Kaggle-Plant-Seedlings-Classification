@@ -1,2 +1,2 @@
 # Kaggle-Plant-Seedlings-Classification
-  ![GitHub Logo](/images/logo.png)
+  (/Loss/Cross-entropy/training_accuracy.jpg)
